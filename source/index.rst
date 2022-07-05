@@ -7,9 +7,10 @@ Welcome to test_readthedocs's documentation!
 ============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: QUICKSTART
+   :maxdepth: 1
 
+   AIR-OS_Quick_Start.md
 
 
 Indices and tables
